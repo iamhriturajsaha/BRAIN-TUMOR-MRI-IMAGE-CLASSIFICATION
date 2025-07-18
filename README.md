@@ -53,6 +53,11 @@ Both models are evaluated on accuracy, loss, classification report, and confusio
 
 ---
 
+## 💯 Results Summary
+![Results](Results.png)
+
+---
+
 ## 🧪 Streamlit App
 
 An interactive app is built using **Streamlit**:
@@ -62,6 +67,7 @@ An interactive app is built using **Streamlit**:
   - ✅ MobileNetV2
 - Display prediction probabilities and result
 
+---
 
 <p align="center">
   <img src="Streamlit Images/1.png" alt="Streamlit Screenshot 1" width="80%">
@@ -85,4 +91,3 @@ An interactive app is built using **Streamlit**:
     <td><img src="Streamlit Images/9.png" width="100%"></td>
   </tr>
 </table>
-
