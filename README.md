@@ -1,6 +1,6 @@
-# 🧠 BRAIN TUMOR MRI IMAGE CLASSIFICATION
+# 🧠 Brain Tumor MRI Image Classification
 
-This project implements a **complete end-to-end pipeline** for classifying brain tumor MRI images using both a **Custom Convolutional Neural Network (CNN)** and a **Transfer Learning** model (MobileNetV2). It includes data preprocessing, augmentation, training, evaluation, model comparison, and a Streamlit web app for live prediction.
+This project implements a **complete end-to-end pipeline** for classifying brain tumor MRI images using both a **Custom Convolutional Neural Network (CNN)** and a **Transfer Learning** model (MobileNetV2). It includes data preprocessing, augmentation, training, evaluation, model comparison and a Streamlit web app for live prediction.
 
 ---
 
@@ -35,7 +35,7 @@ This project implements a **complete end-to-end pipeline** for classifying brain
 
 ## 📊 Evaluation
 
-Both models are evaluated on accuracy, loss, classification report, and confusion matrix. Plots are generated to compare model performance across epochs.
+Both models are evaluated on accuracy, loss, classification report and confusion matrix. Plots are generated to compare model performance across epochs.
 
 ---
 
