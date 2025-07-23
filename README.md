@@ -63,7 +63,7 @@ This dataset enables several important medical AI applications -
 | Step | Description |
 |------|-------------|
 | 1️⃣ | **Dataset Upload & Extraction** - MRI image dataset uploaded as ZIP file and programmatically extracted into structured directories |
-| 2️⃣ | **Preprocessing & Augmentation** - ImageDataGenerator for rescaling, rotation, zoom, and horizontal flipping |
+| 2️⃣ | **Preprocessing & Augmentation** - ImageDataGenerator for rescaling, rotation, zoom and horizontal flipping |
 | 3️⃣ | **Custom CNN Construction** - Hand-crafted CNN with increasing filter depth and dropout regularization |
 | 4️⃣ | **Model Training with Callbacks** - EarlyStopping and ModelCheckpoint for optimal training |
 | 5️⃣ | **Model Evaluation** - Classification accuracy, loss curves, confusion matrix and classification reports |
@@ -165,7 +165,7 @@ git clone https://github.com/iamhriturajsaha/BRAIN-TUMOR-MRI-IMAGE-CLASSIFICATIO
 cd BRAIN-TUMOR-MRI-IMAGE-CLASSIFICATION
 ```
 
-3. Run the Streamlit app -
+2. Run the Streamlit app -
 ```bash
 streamlit run app.py
 ```
