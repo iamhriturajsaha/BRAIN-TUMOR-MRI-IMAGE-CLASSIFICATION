@@ -1,4 +1,4 @@
-# 🧠 Brain Tumor MRI Image Classification
+# 🧠Brain Tumor MRI Image Classification
 
 A comprehensive end-to-end pipeline for brain tumor MRI classification using deep learning techniques. This project combines the power of a Custom Convolutional Neural Network (CNN) and Transfer Learning via MobileNetV2, providing a robust approach to tumor detection with real-time deployment through a Streamlit web application.
 
