@@ -114,7 +114,7 @@ Interactive web interface for real-time MRI classification -
 - 📊 **Probability Scores** - View prediction confidence for each tumor class
 - 🎯 **Visual Feedback** - Clear prediction results with explanations
 
-### Screenshots -
+###  Quick Glance -
 The application provides an intuitive interface showing -
 
 <p align="center">
@@ -182,9 +182,9 @@ The project includes comprehensive model comparison with visualization of -
 
 ## 🔮 Future Enhancements
 
-- [ ] **Additional Models** - Support for ResNet50, EfficientNet
-- [ ] **Multi-Modal Imaging** - Extend to CT and PET scans
-- [ ] **Model Interpretability** - Add Grad-CAM visualization
-- [ ] **Production Deployment** - Docker containerization and cloud deployment
-- [ ] **Real-time Processing** - Batch processing capabilities
-- [ ] **Model Ensemble** - Combine multiple models for improved accuracy
+- **Additional Models** - Support for ResNet50, EfficientNet
+- **Multi-Modal Imaging** - Extend to CT and PET scans
+- **Model Interpretability** - Add Grad-CAM visualization
+- **Production Deployment** - Docker containerization and cloud deployment
+- **Real-time Processing** - Batch processing capabilities
+- **Model Ensemble** - Combine multiple models for improved accuracy
