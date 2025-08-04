@@ -114,11 +114,11 @@ Interactive web interface for real-time MRI classification -
 - 📊 **Probability Scores** - View prediction confidence for each tumor class
 - 🎯 **Visual Feedback** - Clear prediction results with explanations
 
-###  Quick Glance -
+###  Streamlit Quick Glance -
 The application provides an intuitive interface showing -
 
 <p align="center">
-  <img src="Streamlit Images/1.png" alt="Streamlit Screenshot 1" width="80%">
+  <img src="Streamlit Images/1.png" alt="Streamlit Screenshot 1" width="100%">
 </p>
 
 <table>
@@ -188,3 +188,4 @@ The project includes comprehensive model comparison with visualization of -
 - **Production Deployment** - Docker containerization and cloud deployment
 - **Real-time Processing** - Batch processing capabilities
 - **Model Ensemble** - Combine multiple models for improved accuracy
+
